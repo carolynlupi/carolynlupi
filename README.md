@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @carolynlupi
+- 👀 I’m interested in coding, painting & the outdoors
+- 🌱 I’m currently learning Javascript & more!
+- 💞️ I’m looking to collaborate on anything possible!
